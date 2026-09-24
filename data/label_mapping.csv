@@ -1,0 +1,8 @@
+priority,study_group,training_folder,chexpert_visualchexbert_labels,chestxray8_labels
+1,Pneumonia (Infectious),Pneumonia_Infectious,Pneumonia,Pneumonia
+2,Cardiomegaly,Cardiomegaly,Cardiomegaly,Cardiomegaly
+3,Pleural/Extrapulmonary/Volume Disease,Pleural_Extrapulmonary_Volume_Disease,Atelectasis; Pneumothorax; Pleural Effusion; Pleural Other,Atelectasis; Effusion; Hernia; Pleural_Thickening; Pneumothorax
+4,Airspace Opacity (non-infectious) = Weakly-Supervised Uncertain,Weakly_Supervised_Uncertain,Edema,Consolidation; Edema; Infiltration
+5,Focal Lesion/Chronic Change,Focal_Lesion_Chronic_Change,(none),Emphysema; Fibrosis; Mass; Nodule
+6,No Finding,No_Finding,No Finding,No Finding
+excluded,not used (image dropped if it has only these),-,Lung Opacity; Consolidation; Lung Lesion; Enlarged Cardiomediastinum; Fracture; Support Devices,(none)
