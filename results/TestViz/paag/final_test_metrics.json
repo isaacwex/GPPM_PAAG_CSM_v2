@@ -1,0 +1,49 @@
+{
+  "ROC_AUC": 0.8310652331609253,
+  "Optimal_Threshold": 0.8972034454345703,
+  "Max_F1": 0.5471887550200804,
+  "Recall": 0.6753407682775713,
+  "Precision": 0.459915611814346,
+  "Specificity": 0.8040616389427493,
+  "Brier_Score": 0.3398328423500061,
+  "Sample_Count": 12220,
+  "Mean_IoU": 0.40917789603275856,
+  "Std_IoU": 0.1101195743079906,
+  "Median_IoU": 0.4165423123318329,
+  "IoU_N_Samples": 100,
+  "IoU_Mode": "pseudo_groundtruth",
+  "Attention_Entropy": 14.77045678138733,
+  "Attention_Peak_to_Mean": 4.207803406715393,
+  "Attention_Coverage_0.5": 0.21967215401785714,
+  "Attention_N_Peaks": 1.15,
+  "TIoU_Accuracy_0.1": 1.0,
+  "TIoU_Accuracy_0.2": 0.94,
+  "TIoU_Accuracy_0.3": 0.84,
+  "TIoU_Accuracy_0.4": 0.57,
+  "TIoU_Accuracy_0.5": 0.17,
+  "TIoU_Accuracy_0.6": 0.04,
+  "TIoU_Accuracy_0.7": 0.01,
+  "View_Stratified": {
+    "PA": {
+      "N": 3443,
+      "ROC_AUC": 0.907052761419704,
+      "F1": 0.6219312602291326,
+      "Precision": 0.5374823196605375,
+      "Recall": 0.7378640776699029
+    },
+    "AP": {
+      "N": 8777,
+      "ROC_AUC": 0.79495062127533,
+      "F1": 0.5279764408918804,
+      "Precision": 0.44066011235955055,
+      "Recall": 0.6584470094438615
+    },
+    "PA_AP_Combined": {
+      "N": 12220,
+      "ROC_AUC": 0.8310652331609253,
+      "F1": 0.5471887550200804,
+      "Precision": 0.459915611814346,
+      "Recall": 0.6753407682775713
+    }
+  }
+}

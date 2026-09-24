@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated article and this software."
+title: "GPPM PAAG/CSM: multi-seed ablation of attention and comorbidity-suppression modules for geriatric pneumonia detection"
+authors:
+  - family-names: Wekesa
+    given-names: Isaac Wafula
+    affiliation: "Jomo Kenyatta University of Agriculture and Technology"
+  - family-names: Wekesa
+    given-names: Jael Sanyanda
+  - family-names: Gateri
+    given-names: Judy Muthoni
+  - family-names: Opondo
+    given-names: Philemon Onyango
+repository-code: "https://github.com/isaacwex/GPPM_PAAG_CSM_v2"
+license: MIT
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"   # replace with the Zenodo software DOI

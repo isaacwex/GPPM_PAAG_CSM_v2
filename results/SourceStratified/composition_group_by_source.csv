@@ -1,0 +1,8 @@
+Group,CheXpert,ChestX-ray8,All
+Cardiomegaly,4186,94,4280
+Focal_Lesion_Chronic_Change,0,227,227
+No_Finding,1285,1385,2670
+Pleural_Extrapulmonary_Volume_Disease,1280,901,2181
+Pneumonia_Infectious,2393,28,2421
+Weakly_Supervised_Uncertain,133,308,441
+All,9277,2943,12220

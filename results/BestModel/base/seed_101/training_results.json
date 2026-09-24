@@ -1,0 +1,15 @@
+{
+  "roc_auc": 0.8244840318622951,
+  "f1_score": 0.541488857278331,
+  "epochs_trained": 16,
+  "stopped_early": true,
+  "ROC-AUC": 0.8244840318622951,
+  "Optimal F1": 0.541488857278331,
+  "Precision": 0.4472584856396867,
+  "Recall": 0.6860232278734482,
+  "Specificity": 0.7895207794790217,
+  "Brier Score": 0.3486516773700714,
+  "Optimal Threshold": 0.8778746128082275,
+  "Sample_Count": 12555.0,
+  "seed": 101.0
+}

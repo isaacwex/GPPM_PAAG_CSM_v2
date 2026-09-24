@@ -1,0 +1,7 @@
+Group,N,Actual_Pneumonia_Rate,Mean_Predicted_Probability,Predicted_Pneumonia_Rate,Interpretation
+Pneumonia_Infectious,2421,1.0,0.8849259614944458,0.6414704667492772,True Positive Rate (sensitivity)
+Cardiomegaly,4280,0.0,0.7432647943496704,0.28551401869158877,False Positive Rate (confounding risk)
+Pleural_Extrapulmonary_Volume_Disease,2181,0.0,0.513060986995697,0.1522237505731316,False Positive Rate (confounding risk)
+Weakly_Supervised_Uncertain,441,0.0,0.3472640812397003,0.06575963718820861,False Positive Rate (confounding risk)
+No_Finding,2670,0.0,0.3449735939502716,0.03258426966292135,False Positive Rate (confounding risk)
+Focal_Lesion_Chronic_Change,227,0.0,0.14670833945274353,0.004405286343612335,False Positive Rate (confounding risk)
