@@ -2,8 +2,8 @@
 
 Code, derived data and results for the manuscript *"Attention and Comorbidity-Suppression Modules for Geriatric Pneumonia Detection on Chest Radiographs: A Multi-Seed Ablation Study of DenseNet-121"* (Wekesa et al., submitted to PeerJ).
 
-- Software archive (this repository): DOI `10.5281/zenodo.XXXXXXX`
-- Trained model weights (12 checkpoints): DOI `10.5281/zenodo.YYYYYYY`
+- Software archive (this repository): DOI `10.5281/zenodo.22945067`
+- Trained model weights (12 checkpoints): DOI `10.5281/zenodo.22945068`
 
 ## Repository layout
 | Path | Contents |
